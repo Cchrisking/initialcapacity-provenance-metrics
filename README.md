@@ -1,6 +1,6 @@
 # Provenance metrics
 
-In this exercise we'll look at introducing service level indicators within the Provenance codebase.
+Service level indicators within the Provenance codebase W3.
 
 ### The Exercise
 
